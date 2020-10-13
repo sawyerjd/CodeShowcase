@@ -1,0 +1,1 @@
+This was something I tried to create to simplify making XML config files for a tool I used called Simrunner.  In this case, it was pulling Dialer campaign names and ID's from a CSV file and building out an XML config file, then writing the output to output.xml
